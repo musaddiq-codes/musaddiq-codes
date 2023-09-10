@@ -1,6 +1,10 @@
 ### Hi there 👋
 <h3 align="center">I am a passionate Full Stack MERN developer</h3>
 
+<h4 align="center">I Develop MERN Stack Solutions, Manage Projects & Develop Businesses.</h4>
+<h4 align="center">I Love to learning about, Bussiness, Project Management, AI/ML and Cloud Computing.</h4>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musaddiq-codes&label=Profile%20views&color=0e75b6&style=flat" alt="musaddiq-codes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musaddiq-codes" alt="musaddiq-codes" /></a> </p>
