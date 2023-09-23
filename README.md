@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **musaddiq3600@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1BcT8zOs4xll3jTZWdBv5MlwxmUXaPkRO/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1BcT8zOs4xll3jTZWdBv5MlwxmUXaP
 
 - ⚡ Fun fact **I think I am Funny**
 
